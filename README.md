@@ -34,7 +34,7 @@ If the policy does not change (π′ = π), then the policy is optimal and the a
 Otherwise, repeat steps 2 and 3.
 
 ## POLICY IMPROVEMENT FUNCTION
-### Name: SASINTHARA S
+### Name:  SASINTHARA S
 ### Register Number: 212223110045
 ```
 def policy_improvement(V, P, gamma=1.0):
@@ -51,7 +51,7 @@ def policy_improvement(V, P, gamma=1.0):
 
 ```
 ## POLICY ITERATION FUNCTION
-### Name: SASINTHARA S
+### Name:  SASINTHARA S
 ### Register Number: 212223110045
 ```
 def policy_iteration(P,gamma=1.0,theta=1e-10):
